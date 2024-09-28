@@ -6,10 +6,12 @@ Six way Traffic light system using 8051 Microcontroller
 6-lane roads with traffic lights.
 
 ## Tools
-- **Protues7**
-- **Keil4**
+### Keil4
+using keil4 to complie code and bulid the hex file
+### Protues7
+Open the DSN file and Simulate the crossroad
 
-## Circuit Design
+## Circuit.DSN
 ![在这里插入图片描述](img/20210527162258772.jpg)
 
 ## BOM
