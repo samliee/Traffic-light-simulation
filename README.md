@@ -7,7 +7,7 @@ Six way Traffic light system using 8051 Microcontroller
 
 ## Tools
 ### Keil4
-using keil4 to complie code and bulid the hex file
+using keil4 to compile code and bulid the hex file
 ### Protues7
 Open the DSN file and Simulate the crossroad
 
