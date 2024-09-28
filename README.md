@@ -14,6 +14,8 @@ Open the DSN file and Simulate the crossroad
 ## Circuit.DSN
 ![在这里插入图片描述](img/20210527162258772.jpg)
 
+Download DSN file from Release page
+
 ## BOM
 |name|count|
 |--|--
